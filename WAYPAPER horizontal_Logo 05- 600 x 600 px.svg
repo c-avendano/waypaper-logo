@@ -1,77 +1,66 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="a" data-name="Layer 16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
-  <defs>
-    <style>
-      .b {
-        fill: #fabd2f;
-      }
-
-      .b, .c, .d, .e, .f, .g {
-        stroke-width: 0px;
-      }
-
-      .c {
-        fill: #98971a;
-      }
-
-      .h {
-        letter-spacing: -.03em;
-      }
-
-      .d {
-        fill: #cc241d;
-      }
-
-      .i {
-        letter-spacing: 0em;
-      }
-
-      .e {
-        fill: #202020;
-      }
-
-      .j {
-        letter-spacing: -.03em;
-      }
-
-      .k {
-        fill: #fbf1c7;
-        font-family: Futura-Bol, Futura;
-        font-size: 60px;
-      }
-
-      .l {
-        letter-spacing: -.06em;
-      }
-
-      .f {
-        fill: #d79921;
-      }
-
-      .g {
-        fill: #fb4934;
-      }
-
-      .m {
-        letter-spacing: 0em;
-      }
-
-      .n {
-        letter-spacing: 0em;
-      }
-
-      .o {
-        letter-spacing: 0em;
-      }
-    </style>
-  </defs>
-  <rect class="e" width="600" height="600"/>
-  <g>
-    <rect class="d" x="32.43" y="174.31" width="193.07" height="182.52"/>
-    <polygon class="f" points="32.43 356.83 32.43 174.31 225.5 174.31 32.43 356.83"/>
-    <polygon class="b" points="32.43 356.83 79.93 221.81 225.5 174.31 32.43 356.83"/>
-    <polygon class="g" points="76.96 356.91 113.52 252.99 225.55 216.44 76.96 356.91"/>
-    <polygon class="c" points="225.5 356.83 76.96 356.83 225.5 216.4 225.5 356.83"/>
-  </g>
-  <text class="k" transform="translate(240.5 256.58)"><tspan class="h" x="0" y="0">W</tspan><tspan class="l" x="58.86" y="0">A</tspan><tspan class="n" x="97.98" y="0">Y</tspan><tspan class="j" x="136.38" y="0">P</tspan><tspan x="170.22" y="0">A</tspan><tspan class="i" x="212.82" y="0">P</tspan><tspan x="249.18" y="0">ER</tspan><tspan x="0" y="72">E</tspan><tspan class="o" x="29.34" y="72">N</tspan><tspan class="m" x="78.24" y="72">GINE</tspan></text>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="a" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#202020;}
+	.st1{fill:#CC241D;}
+	.st2{fill:#D79921;}
+	.st3{fill:#FABD2F;}
+	.st4{fill:#FB4934;}
+	.st5{fill:#98971A;}
+	.st6{enable-background:new    ;}
+	.st7{fill:#FBF1C7;}
+</style>
+<rect class="st0" width="600" height="600"/>
+<g>
+	<rect x="32.4" y="174.3" class="st1" width="193.1" height="182.5"/>
+	<polygon class="st2" points="32.4,356.8 32.4,174.3 225.5,174.3 	"/>
+	<polygon class="st3" points="32.4,356.8 79.9,221.8 225.5,174.3 	"/>
+	<polygon class="st4" points="77,356.9 113.5,253 225.6,216.4 	"/>
+	<polygon class="st5" points="225.5,356.8 77,356.8 225.5,216.4 	"/>
+</g>
+<g class="st6">
+	<path class="st7" d="M258.3,242.4l8.5-25.9h8.3l7.9,25.9l7.6-25.9h10.9l-12.8,40h-10.6l-7.3-23.2l-7.7,23.2h-10.6l-11.9-40h10.9
+		L258.3,242.4z"/>
+</g>
+<g class="st6">
+	<path class="st7" d="M313.5,249.6l-2.8,7h-11l15.4-40h11.3l15.1,40h-11.1l-2.6-7H313.5z M320.8,228.9l-4.4,12.8h8.6L320.8,228.9z"
+		/>
+</g>
+<g class="st6">
+	<path class="st7" d="M337.8,216.6h12.4l7.6,10.9l7.3-10.9h12.6l-15,20.8v19.2h-10.4v-19.2L337.8,216.6z"/>
+</g>
+<g class="st6">
+	<path class="st7" d="M391.5,256.6h-10.4v-40h16.5c4.7,0,7.4,0.9,10,3.4s3.9,5.7,3.9,9.9c0,4-1.1,7.4-3.2,9.7
+		c-2.2,2.5-5.5,3.7-10.3,3.7h-6.5V256.6z M394.9,234.9c4,0,5.8-1.6,5.8-5c0-3.4-1.9-5-5.7-5h-3.5v10H394.9z"/>
+</g>
+<g class="st6">
+	<path class="st7" d="M424.9,249.6l-2.8,7h-11l15.4-40h11.3l15.1,40h-11.1l-2.6-7H424.9z M432.1,228.9l-4.4,12.8h8.6L432.1,228.9z"
+		/>
+</g>
+<g class="st6">
+	<path class="st7" d="M467.9,256.6h-10.4v-40H474c4.7,0,7.4,0.9,10,3.4s3.9,5.7,3.9,9.9c0,4-1.1,7.4-3.2,9.7
+		c-2.2,2.5-5.5,3.7-10.3,3.7h-6.5V256.6z M471.3,234.9c4,0,5.8-1.6,5.8-5c0-3.4-1.9-5-5.7-5h-3.5v10H471.3z"/>
+</g>
+<g class="st6">
+	<path class="st7" d="M504.3,225.4v6.7H516v8.8h-11.7v6.9h12.4v8.8h-22.7v-40h22.7v8.8H504.3z"/>
+	<path class="st7" d="M556.5,256.6h-13l-9.9-15.4v15.4h-10.4v-40h16.1c4.6,0,7.5,1.1,9.8,3.5c2.2,2.3,3.4,5.5,3.4,8.8
+		c0,3.5-1.4,6.9-3.7,8.9c-1.4,1.2-2.7,1.9-5.1,2.4L556.5,256.6z M535.5,234.5c2,0,3.5-0.4,4.4-1.1c1.1-0.8,2-2.5,2-3.9
+		c0-1.4-0.8-3.1-2-3.9c-1-0.7-2.5-1.1-4.4-1.1h-1.9v10H535.5z"/>
+</g>
+<g class="st6">
+	<path class="st7" d="M255.1,297.4v6.7h11.7v8.8h-11.7v6.9h12.4v8.8h-22.7v-40h22.7v8.8H255.1z"/>
+</g>
+<g class="st6">
+	<path class="st7" d="M274,288.6h10.4l19.1,24.5v-24.5h10.4v40h-10.4l-19.1-24.5v24.5H274V288.6z"/>
+</g>
+<g class="st6">
+	<path class="st7" d="M363,306.4c-0.1,5.9-0.7,9.1-2.1,12.3c-3.3,7.3-9.8,11.3-18.4,11.3c-12.7,0-21.4-8.6-21.4-21.2
+		c0-12.8,8.8-21.5,21.7-21.5c8.5,0,14.2,3.6,18,11.3l-9.9,4.1c-1.8-4.3-4.6-6.4-8.6-6.4c-5.9,0-10.4,5.3-10.4,12.5
+		c0,3.7,1.3,7.3,3.6,9.7c1.7,1.9,4.1,2.9,7.1,2.9c2.9,0,5.3-1,6.8-2.9c0.8-1.1,1.1-2,1.4-4h-8.5v-8.1H363z"/>
+	<path class="st7" d="M380,328.6h-10.4v-40H380V328.6z"/>
+	<path class="st7" d="M388.4,288.6h10.4l19.1,24.5v-24.5h10.4v40h-10.4l-19.1-24.5v24.5h-10.4V288.6z"/>
+	<path class="st7" d="M447.1,297.4v6.7h11.7v8.8h-11.7v6.9h12.4v8.8h-22.7v-40h22.7v8.8H447.1z"/>
+</g>
 </svg>
