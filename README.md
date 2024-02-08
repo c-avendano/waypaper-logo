@@ -1,12 +1,12 @@
-# waypaper-logo
+# waypaper-engine-logo
 
 I'm happy to help free software projects get their logos! Feel free to message me on linkedin or @me on a repo if you have a request :)
 
-The files for the Waypaper logo are saved on this repo. You can use them as you see fit (for ex if you want to do a fork or just want to check what svg files look like)
+The files for the Waypaper Engine logo are saved on this repo. You can use them as you see fit (for ex if you want to do a fork or just want to check what svg files look like)
 
-Link to Waypaper: https://github.com/anufrievroman/waypaper
+Link to Waypaper Engine: https://github.com/0bCdian/Waypaper-Engine
 
-Waypaper is pretty cool, is one of those programs that you only realize you neeeded after you start using it. I can finally <strike>shuffle my anime waifus wallpapers on hyprland like a weirdo</strike> change my wallpaper easily!
+Waypaper Engine is pretty cool, is one of those programs that you only realize you neeeded after you start using it. I can finally <strike>shuffle my anime waifus wallpapers on hyprland like a weirdo</strike> change my wallpaper easily!
 
 (ASCII art below because are you *really* completing a Linux-related project if you don't use ASCII art *somewhere*? Look into your soul, you know the answer)
 
@@ -42,21 +42,6 @@ Waypaper is pretty cool, is one of those programs that you only realize you neee
                                                         ôstjrVý88888888ÞÒñaó@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@©                                                             
                                                         ôJrVÖ888888888ýñ&ó@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@©                                                             
                                                         üÍÖ8888888888Ùõó@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@©                                                             
-                                                         8888888888888888888888888888888888888888888888888888888                                                              
-                                                                                                                                                                              
-                                                                                                                                                                              
-                                                                                                                                                                              
-                                       ÓÓÓ    èÓÓ    èÓÓÙ   èÓÓÞ   ýÓÓÓ   ÙÓÓÓèèÓÓÓÓÓÓÓ     $ÓÓÓ     ÙÓÓÓÓÓÓè   ÞÓÓÓÓÓÓ $ÓÓÓÓèd                                               
-                                       ÓÓÓÞ  èÓÓÓÞ  èÓÓÓ   ÖÓÓÓÓÓ  ÙÓÓÓÓ èÓÓÓÓ èÓÓÓÓÓÓÓÓ    ÓÓÓÓÞ    èÓÓÓÓÓÓÓÓ  ÞÓÓÓÓÓÓ ÓÓÓÓÓÓÓÓÓ                                             
-                                       ÞÓÓÓ  ÓÓÓÓÓ  ÓÓÓè   ÓÓÓÓÓÞ   åÓÓÓÓÓÓÓÓ  èÓÓÓ èÓÓÓè  ÞÓÓÓÓÓÓ   èÓÓÓ dÓÓÓè ÞÓÓÓ    ÓÓÓè  ÓÓÓd                                            
-                                        ÓÓÓÓèÓÓÓÓÓÓèÓÓÓ   ÞÓÓèèÓÓÓ    èÓÓÓÓÙ   èÓÓÞÞÓÓÓÓÞ ÙÓÓÓ$ÓÓÞ   èÓÓÓÞÓÓÓÓÓ ÞÓÓÓÓÓÓ ÓÓÓÓÞÓÓÓÓ                                             
-                                        ÙÓÓÓÓÓÓ ÓÓÓÓÓÓè  ÙÓÓÓÞÞÓÓÓè    ÓÓÓÞ    èÓÓÓèèèÓÞ åÓÓÓÓÞÓÓÓÓ  èÓÓÓèèèÓý  ÞÓÓÓÞÞÞ ÓÓÓÓÓÓÓÓ                                              
-                                         ÓÓÓÓÓÞ ýÓÓÓÓÓ  åÓÓÓÓÓÓÓÓÓÓÞ   ÓÓÓÞ    ÓÓÓÓ      ÓÓÓÓÓÓÓÓÓÓý èÓÓÓ       ÞÓÓÓÞÞÓ ÓÓÓèýÓÓÓÙ                                             
-                                         ýÓÓÓè   ÓÓÓÓ   ÓÓÓè    ÞÓÓÞ   ÓÓÓÞ    ÓÓÓÓ     ÓÓÓÓ    ÞÓÓÓåèÓÓÓ       ÞÓÓÓÓÓÓ ÓÓÓè ÿÓÓÓÓ                                            
-                                                                                                                                                                              
-                                                                                                                                                                              
-                                                                                                                                                                              
-                                                                                                   
-                                                                                                                                                                              
+                                 
                                                                                                                                                                               
                                                                                                                                                                               
