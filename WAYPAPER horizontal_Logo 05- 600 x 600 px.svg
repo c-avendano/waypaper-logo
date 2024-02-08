@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <style>
+      .b {
+        fill: #fabd2f;
+      }
+
+      .b, .c, .d, .e, .f, .g {
+        stroke-width: 0px;
+      }
+
+      .c {
+        fill: #98971a;
+      }
+
+      .h {
+        letter-spacing: -.03em;
+      }
+
+      .d {
+        fill: #cc241d;
+      }
+
+      .i {
+        letter-spacing: 0em;
+      }
+
+      .e {
+        fill: #202020;
+      }
+
+      .j {
+        letter-spacing: -.03em;
+      }
+
+      .k {
+        fill: #fbf1c7;
+        font-family: Futura-Bol, Futura;
+        font-size: 60px;
+      }
+
+      .l {
+        letter-spacing: -.06em;
+      }
+
+      .f {
+        fill: #d79921;
+      }
+
+      .g {
+        fill: #fb4934;
+      }
+
+      .m {
+        letter-spacing: 0em;
+      }
+
+      .n {
+        letter-spacing: 0em;
+      }
+
+      .o {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <rect class="e" width="600" height="600"/>
+  <g>
+    <rect class="d" x="32.43" y="174.31" width="193.07" height="182.52"/>
+    <polygon class="f" points="32.43 356.83 32.43 174.31 225.5 174.31 32.43 356.83"/>
+    <polygon class="b" points="32.43 356.83 79.93 221.81 225.5 174.31 32.43 356.83"/>
+    <polygon class="g" points="76.96 356.91 113.52 252.99 225.55 216.44 76.96 356.91"/>
+    <polygon class="c" points="225.5 356.83 76.96 356.83 225.5 216.4 225.5 356.83"/>
+  </g>
+  <text class="k" transform="translate(240.5 256.58)"><tspan class="h" x="0" y="0">W</tspan><tspan class="l" x="58.86" y="0">A</tspan><tspan class="n" x="97.98" y="0">Y</tspan><tspan class="j" x="136.38" y="0">P</tspan><tspan x="170.22" y="0">A</tspan><tspan class="i" x="212.82" y="0">P</tspan><tspan x="249.18" y="0">ER</tspan><tspan x="0" y="72">E</tspan><tspan class="o" x="29.34" y="72">N</tspan><tspan class="m" x="78.24" y="72">GINE</tspan></text>
+</svg>
